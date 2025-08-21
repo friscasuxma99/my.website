@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Portal CaLK</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Selamat Datang di Portal Dokumen CaLK</h1>
+  <p>Ini adalah situs sederhana untuk dokumentasi dan SOP keuangan.</p>
+</body>
+</html>
